@@ -11,7 +11,7 @@
 ### 🤖 AI Stack
 
 <p align="left">
-  <img src="assets/ai-stack.svg" alt="Codex, Claude, Kimi, GLM and DeepSeek" />
+  <img src="assets/ai-stack.svg" alt="Codex, Claude, Kimi, GLM, DeepSeek, WorkBuddy, Qoder, Cursor, OpenCode, Pi Coding Agent, Antigravity and Kiro" />
 </p>
 
 ---
