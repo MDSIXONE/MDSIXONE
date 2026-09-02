@@ -8,6 +8,20 @@
   </a>
 </p>
 
+### 🤖 AI Stack
+
+<p align="left">
+  <img height="42" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="Codex" title="Codex" />
+  &nbsp;
+  <img height="42" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" title="Claude" />
+  &nbsp;
+  <img height="42" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/kimi-color.svg" alt="Kimi" title="Kimi" />
+  &nbsp;
+  <img height="42" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/chatglm-color.svg" alt="GLM" title="GLM / ChatGLM" />
+  &nbsp;
+  <img height="42" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" alt="DeepSeek" title="DeepSeek" />
+</p>
+
 ---
 
 <picture>
