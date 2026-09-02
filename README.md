@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,powershell,ros,linux,ubuntu,cmake,git,github,vscode&perline=10" alt="MDSIXONE technical stack" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,ros,linux,ubuntu,cmake,git,github,vscode&perline=10" alt="MDSIXONE technical stack" />
   </a>
 </p>
 
